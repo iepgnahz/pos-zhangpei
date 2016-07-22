@@ -1,4 +1,6 @@
 'use strict'
+
+new line
 function printReceipts(cartItems){
   var  mergedCartItem = mergeCartItem(cartItems);
   var  subTotal = computeSubTotal(mergedCartItem);
